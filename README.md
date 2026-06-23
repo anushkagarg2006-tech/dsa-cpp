@@ -27,4 +27,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
