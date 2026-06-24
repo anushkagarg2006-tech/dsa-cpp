@@ -32,4 +32,9 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
