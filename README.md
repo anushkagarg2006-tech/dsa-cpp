@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0018-4sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0018-4sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -43,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
