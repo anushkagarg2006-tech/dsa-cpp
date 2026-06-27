@@ -12,7 +12,7 @@ public:
                 }else{e=m;}
             }else{
                 if(nums[m+1]==nums[m]){
-                    e=m-1;
+                    e=m;
                 }else{s=m+1;}
             }
         }return nums[s];
