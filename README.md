@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0704-binary-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2951-find-the-peaks](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview
 | [0015-3sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0088-merge-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
