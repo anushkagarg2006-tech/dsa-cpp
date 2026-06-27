@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0035-search-insert-position](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
