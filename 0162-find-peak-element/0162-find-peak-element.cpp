@@ -11,7 +11,7 @@ public:
                 if (m == 0)
                     break;
                 else if (nums[m] < nums[m - 1]) {
-                    e = m;
+                    e = m-1;
                 } else {
                     return m;
                 }
