@@ -11,11 +11,12 @@ public:
             int dayno = 1;  // FIX: pehla din already shuru hai
             
             for (int i : weights) {
-                if (sum + i > mid) {   // FIX: capacity cross ho rahi hai
+                 sum += i;
+                if (sum  > mid) {   // FIX: capacity cross ho rahi hai
                     dayno++;
-                    sum = 0;
+                    sum = i;
                 }
-                sum += i;
+                
             }
             
             if (dayno <= days) {
