@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2951-find-the-peaks](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2951-find-the-peaks) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
