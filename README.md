@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0290-word-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2264-largest-3-same-digit-number-in-string) |
