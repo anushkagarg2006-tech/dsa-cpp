@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0015-3sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Enumeration
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
