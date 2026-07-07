@@ -94,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
