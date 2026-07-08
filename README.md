@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0796-rotate-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0890-find-and-replace-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
