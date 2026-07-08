@@ -14,16 +14,16 @@ public:
         for (int i = 0; i < s.length(); i++) {
             char ch = s[i];
 
-            if ((ch + 1) != s.length()) {
-                if (ch == 'I' && (s[i + 1] == 'V' || s[i + 1] == 'X')) {
-                    ans = ans - mp['I'];
-                } else if (ch == 'X' && (s[i + 1] == 'L' || s[i + 1] == 'C')) {
-                    ans = ans - mp['X'];
-                } else if (ch == 'C' && (s[i + 1] == 'D' || s[i + 1] == 'M')) {
-                    ans = ans - mp['C'];
-                } else {
-                    ans = ans + mp[ch];
-                }
+            if ((ch + 1) != s.length()&& mp[ch]<mp[s[i+1]]) {
+                // if (ch == 'I' && (s[i + 1] == 'V' || s[i + 1] == 'X')) {
+                //     ans = ans - mp['I'];
+                // } else if (ch == 'X' && (s[i + 1] == 'L' || s[i + 1] == 'C')) {
+                //     ans = ans - mp['X'];
+                // } else if (ch == 'C' && (s[i + 1] == 'D' || s[i + 1] == 'M')) {
+                    ans = ans - mp[ch];
+                // } else {
+                //     ans = ans + mp[ch];
+                // }
             } else {
                 ans = ans + mp[ch];
             }
