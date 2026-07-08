@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2951-find-the-peaks](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1636-sort-array-by-increasing-frequency](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## String
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2341-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
