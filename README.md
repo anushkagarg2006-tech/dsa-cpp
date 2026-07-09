@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2278-percentage-of-letter-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2278-percentage-of-letter-in-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2341-maximum-number-of-pairs-in-array) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
