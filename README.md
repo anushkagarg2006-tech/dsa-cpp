@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0088-merge-sorted-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0013-roman-to-integer) |
