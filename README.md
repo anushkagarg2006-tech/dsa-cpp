@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0162-find-peak-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0680-valid-palindrome-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
@@ -85,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0647-palindromic-substrings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
