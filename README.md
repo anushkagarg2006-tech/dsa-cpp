@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1539-kth-missing-positive-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0680-valid-palindrome-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0680-valid-palindrome-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
 | ------- |
