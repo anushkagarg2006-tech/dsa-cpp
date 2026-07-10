@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0647-palindromic-substrings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0088-merge-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0647-palindromic-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0680-valid-palindrome-ii) |
 ## Enumeration
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0151-reverse-words-in-a-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0290-word-pattern) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
+| [0647-palindromic-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0890-find-and-replace-pattern) |
