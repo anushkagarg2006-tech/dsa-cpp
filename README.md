@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0852-peak-index-in-a-mountain-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0890-find-and-replace-pattern) |
+| [0953-verifying-an-alien-dictionary](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0953-verifying-an-alien-dictionary) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0791-custom-sort-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0890-find-and-replace-pattern) |
+| [0953-verifying-an-alien-dictionary](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0953-verifying-an-alien-dictionary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0791-custom-sort-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0890-find-and-replace-pattern) |
+| [0953-verifying-an-alien-dictionary](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
