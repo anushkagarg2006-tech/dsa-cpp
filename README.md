@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1922-count-good-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -221,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
