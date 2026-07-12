@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0012-integer-to-roman](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
