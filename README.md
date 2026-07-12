@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1539-kth-missing-positive-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Greedy
 |  |
@@ -199,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0074-search-a-2d-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
