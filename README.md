@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0013-roman-to-integer](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0069-sqrtx) |
+| [0282-expression-add-operators](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0372-super-pow) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0079-word-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0179-largest-number) |
+| [0282-expression-add-operators](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0290-word-pattern) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0079-word-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
