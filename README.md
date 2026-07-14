@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0033-search-in-rotated-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0050-powx-n](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
