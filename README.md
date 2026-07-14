@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0033-search-in-rotated-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0056-merge-intervals) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0012-integer-to-roman](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0037-sudoku-solver) |
 | [0290-word-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0791-custom-sort-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0791-custom-sort-string) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0240-search-a-2d-matrix-ii) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0079-word-search) |
