@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0633-sum-of-square-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -295,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
