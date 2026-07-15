@@ -291,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
