@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0852-peak-index-in-a-mountain-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0890-find-and-replace-pattern) |
+| [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0953-verifying-an-alien-dictionary) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
 | [0791-custom-sort-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0791-custom-sort-string) |
+| [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0372-super-pow) |
+| [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -268,4 +271,24 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0079-word-search) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
