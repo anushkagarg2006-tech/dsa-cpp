@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0013-roman-to-integer](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0202-happy-number) |
 | [0282-expression-add-operators](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0372-super-pow) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0088-merge-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0633-sum-of-square-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0633-sum-of-square-numbers) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0036-valid-sudoku](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0791-custom-sort-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0791-custom-sort-string) |
