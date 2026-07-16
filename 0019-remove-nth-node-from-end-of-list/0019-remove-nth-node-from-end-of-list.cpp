@@ -33,7 +33,7 @@ public:
 
         } else {
             prev->next = prev->next->next;
-        }
+        }delete pos;
         return head;
     }
 };
