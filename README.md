@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0047-permutations-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0088-merge-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0234-palindrome-linked-list) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0372-super-pow) |
 | [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0237-delete-node-in-a-linked-list) |
