@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0633-sum-of-square-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1922-count-good-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview
 | [0237-delete-node-in-a-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
