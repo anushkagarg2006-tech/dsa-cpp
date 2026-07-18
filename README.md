@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1636-sort-array-by-increasing-frequency](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1901-find-a-peak-element-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0633-sum-of-square-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
@@ -328,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
