@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0069-sqrtx](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0202-happy-number) |
 | [0282-expression-add-operators](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0372-super-pow) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0050-powx-n](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
