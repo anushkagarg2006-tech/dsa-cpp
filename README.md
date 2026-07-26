@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0240-search-a-2d-matrix-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
