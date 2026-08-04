@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0791-custom-sort-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0953-verifying-an-alien-dictionary) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0953-verifying-an-alien-dictionary](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
