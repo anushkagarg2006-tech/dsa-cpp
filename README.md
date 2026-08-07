@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0704-binary-search) |
+| [0846-hand-of-straights](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0890-find-and-replace-pattern) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0179-largest-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0680-valid-palindrome-ii) |
+| [0846-hand-of-straights](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0846-hand-of-straights) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
 | [0791-custom-sort-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0791-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0791-custom-sort-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0791-custom-sort-string) |
+| [0846-hand-of-straights](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0846-hand-of-straights) |
 | [0890-find-and-replace-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0890-find-and-replace-pattern) |
 | [0953-verifying-an-alien-dictionary](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0953-verifying-an-alien-dictionary) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
