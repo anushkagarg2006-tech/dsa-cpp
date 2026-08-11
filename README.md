@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
+| [0630-course-schedule-iii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0630-course-schedule-iii) |
 | [0704-binary-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0179-largest-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
+| [0630-course-schedule-iii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0630-course-schedule-iii) |
 | [0680-valid-palindrome-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0846-hand-of-straights) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0350-intersection-of-two-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
+| [0630-course-schedule-iii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0630-course-schedule-iii) |
 | [0791-custom-sort-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0630-course-schedule-iii) |
 | [0912-sort-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
