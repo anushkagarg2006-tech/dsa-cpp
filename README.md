@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2951-find-the-peaks](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2951-find-the-peaks) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Prefix Sum
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## String
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Simulation
 |  |
