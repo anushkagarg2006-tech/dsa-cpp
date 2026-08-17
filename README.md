@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0179-largest-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0179-largest-number) |
 | [0282-expression-add-operators](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0079-word-search) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -368,4 +370,20 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0503-next-greater-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
