@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0013-roman-to-integer](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0202-happy-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0013-roman-to-integer](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0179-largest-number) |
 | [0282-expression-add-operators](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0282-expression-add-operators) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
