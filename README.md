@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0516-longest-palindromic-subsequence](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Math
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0953-verifying-an-alien-dictionary](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
