@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0290-word-pattern](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0647-palindromic-substrings) |
