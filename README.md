@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
 | [0630-course-schedule-iii](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0630-course-schedule-iii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0012-integer-to-roman](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0115-distinct-subsequences) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0002-add-two-numbers](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0234-palindrome-linked-list) |
