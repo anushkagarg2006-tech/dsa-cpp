@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0516-longest-palindromic-subsequence) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0012-integer-to-roman](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/anushkagarg2006-tech/dsa-cpp/tree/master/0127-word-ladder) |
